@@ -7,7 +7,7 @@
     <Authors>Guilherme Branco Stracini</Authors>
     <Copyright>© 2020 Guilherme Branco Stracini. All rights reserved.</Copyright>
     <Description>The BitcoinTrade exchange API client wrapper</Description>
-    <PackageProjectUrl>https://guibranco.github.io/BitcoinTrade-SDK-Dotnet</PackageProjectUrl>
+    <PackageProjectUrl>https://guibranco.github.io/bitcointrade-sdk-dotnet</PackageProjectUrl>
     <RepositoryUrl>https://github.com/guibranco/BitcoinTrade-SDK-Dotnet</RepositoryUrl>
     <RepositoryType>GIT</RepositoryType>
     <PackageTags>bitcoin btc crypto currency cripto moedas api wrapper bitcointrade trade exchange</PackageTags>
