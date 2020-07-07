@@ -6,7 +6,7 @@ The [BitcoinTrade](https://bitcointrade.com.br) API client wrapper for .NET proj
 
 ## CI/CD
 
-[![Build status](https://ci.appveyor.com/api/projects/status/appVeyorId?svg=true)](https://ci.appveyor.com/project/guibranco/bitcointrade-sdk-dotnet)
+[![Build status](https://ci.appveyor.com/api/projects/status/dekoywhywve3258w?svg=true)](https://ci.appveyor.com/project/guibranco/bitcointrade-sdk-dotnet)
 [![GitHub last commit](https://img.shields.io/github/last-commit/guibranco/bitcointrade-sdk-dotnet)](https://github.com/guibranco/bitcointrade-sdk-dotnet)
 [![GitHub last release](https://img.shields.io/github/release-date/guibranco/bitcointrade-sdk-dotnet.svg?style=flat)](https://github.com/guibranco/bitcointrade-sdk-dotnet)
 [![GitHub license](https://img.shields.io/github/license/guibranco/bitcointrade-sdk-dotnet)](https://github.com/guibranco/bitcointrade-sdk-dotnet)
@@ -14,8 +14,8 @@ The [BitcoinTrade](https://bitcointrade.com.br) API client wrapper for .NET proj
 
 ## Code Quality
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/codacyid)](https://www.codacy.com/manual/changeme/codacyid)
-[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/codacyid)](https://www.codacy.com/manual/changeme/codacyid)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bd0f2cac323e4b28a4560cd8bae1fd2d)](https://www.codacy.com/manual/guilherme_9/bitcointrade-sdk-dotnet)
+[![Codacy Badge](https://api.codacy.com/project/badge/Coverage/bd0f2cac323e4b28a4560cd8bae1fd2d)](https://www.codacy.com/manual/guilherme_9/cbitcointrade-sdk-dotnet)
 [![Codecov](https://codecov.io/gh/guibranco/bitcointrade-sdk-dotnet/branch/master/graph/badge.svg)](https://codecov.io/gh/guibranco/bitcointrade-sdk-dotnet)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=guibranco_bitcointrade-sdk-dotnet&metric=alert_status)](https://sonarcloud.io/dashboard?id=guibranco_bitcointrade-sdk-dotnet)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=guibranco_bitcointrade-sdk-dotnet&metric=coverage)](https://sonarcloud.io/dashboard?id=guibranco_bitcointrade-sdk-dotnet)
