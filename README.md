@@ -16,7 +16,9 @@ The [BitcoinTrade](https://bitcointrade.com.br) API client wrapper for .NET proj
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8bac161fe4584176bf8f681639c27ae9)](https://www.codacy.com/gh/guibranco/bitcointrade-sdk-dotnet/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guibranco/bitcointrade-sdk-dotnet&amp;utm_campaign=Badge_Grade)
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/8bac161fe4584176bf8f681639c27ae9)](https://www.codacy.com/gh/guibranco/bitcointrade-sdk-dotnet/dashboard?utm_source=github.com&utm_medium=referral&utm_content=guibranco/bitcointrade-sdk-dotnet&utm_campaign=Badge_Coverage)
+
 [![Codecov](https://codecov.io/gh/guibranco/bitcointrade-sdk-dotnet/branch/master/graph/badge.svg)](https://codecov.io/gh/guibranco/bitcointrade-sdk-dotnet)
+[![CodeFactor](https://www.codefactor.io/repository/github/guibranco/bitcointrade-sdk-dotnet/badge)](https://www.codefactor.io/repository/github/guibranco/bitcointrade-sdk-dotnet)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/9608176406607e244eed/maintainability)](https://codeclimate.com/github/guibranco/bitcointrade-sdk-dotnet/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/9608176406607e244eed/test_coverage)](https://codeclimate.com/github/guibranco/bitcointrade-sdk-dotnet/test_coverage)
