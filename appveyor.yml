@@ -2,16 +2,14 @@ version: 1.0.{build}
 skip_tags: true
 image: Visual Studio 2019
 configuration: Release
-skip_commits:
-  message: /(Create|Update) .*\.(png|jpg|jpeg|bmp|gif|md)/
 
 environment:
   SONAR_TOKEN: 
     secure: x5Rty8DmRHJrIutngnjsXYWMxTJPCkNBS1B9i5EYPVbrvAf3/h2CQz0S3ArXfHQt
   GITHUB_TOKEN:
-    secure: VgYYJdvNLy/n9/uxxlaF0bMpIIrVxCb+dGr66U9nWfPWSN2ySdfuilO8klAw0uvF
+    secure: D1z81FqZlvGkCEyDzJ3g6sIJ93ecUE9EuqfUxc4CMiFGW139pWZk+/huuTY5jzG
   CODACY_PROJECT_TOKEN:
-    secure: J1U8mW5hgIs6dDxd7CMe6W2GBWUTNhjSne3rtVtA5HGjiJQKc4sMh6Mzbiig9/wm
+    secure: ye5lx2jwo87g2GeNWxx56lh/DoVprinhGVi/o4gILRfqj7VWZnd5dho0B3nwQeSG
 
 dotnet_csproj: 
   patch: true 
