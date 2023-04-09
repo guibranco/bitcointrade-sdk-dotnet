@@ -21,7 +21,7 @@ dotnet_csproj:
   assembly_version: '{version}'
   file_version: '{version}'
   informational_version: '{version}'
-  
+
 init:
 - SET JAVA_HOME=C:\Program Files\Java\jdk19
 - SET PATH=%JAVA_HOME%\bin;%PATH%
@@ -94,7 +94,7 @@ deploy:
   on:
    branch: main
   artifact: Package
-  
+
 - provider: GitHub
   on:
    branch: main
@@ -102,7 +102,7 @@ deploy:
   auth_token: $(GITHUB_TOKEN)
   force_update: true
   artifact: ZipFile
-  
+
 - provider: GitHub
   on:
    branch: main
