@@ -5,7 +5,7 @@ configuration: Release
 
 environment:
   SONAR_TOKEN:
-    secure: x5Rty8DmRHJrIutngnjsXYWMxTJPCkNBS1B9i5EYPVbrvAf3/h2CQz0S3ArXfHQt
+    secure: Nho24U7TX057Qp3QHO83AN/07C5TjHQ9ssabwMqyFEPux6rPPTWSv0MOAcytCTu+
   GITHUB_TOKEN:
     secure: D1z81FqZlvGkCEyDzJ3g6sIJ93ecUE9EuqfUxc4CMiFGW139pWZk+/huuTY5jzG
   CODACY_PROJECT_TOKEN:
