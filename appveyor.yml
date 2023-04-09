@@ -13,8 +13,8 @@ environment:
   CODECLIMATE_TOKEN:
     secure: s3Y5gTFBrQ9LapRk9x+CA07YSu+FQTe3QzW09z1FSs4vyV5/q7kNU0hjT82Pk+HBzkNu1ZEXwBbTikfoGQ7wFJxLtJJJu63ZWKsTYxQilk0=
 
-dotnet_csproj: 
-  patch: true 
+dotnet_csproj:
+  patch: true
   file: '**\*.csproj'
   version: '{version}'
   package_version: '{version}'
@@ -33,7 +33,7 @@ before_build:
 - cmd: nuget restore
 - cmd: choco install opencover.portable
 - cmd: choco install codecov
-- cmd: curl -L https://github.com/codacy/codacy-coverage-reporter/releases/download/7.7.0/codacy-coverage-reporter-assembly-7.7.0.jar > ./codacy-test-reporter.jar
+- cmd: curl -L https://github.com/codacy/codacy-coverage-reporter/releases/latest/download/codacy-coverage-reporter-assembly.jar > ./codacy-test-reporter.jar
 - cmd: curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-windows-amd64 > codeclimate-test-reporter.exe
 - cmd: dotnet tool install --global dotnet-sonarscanner
 
