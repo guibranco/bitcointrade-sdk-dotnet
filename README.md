@@ -50,9 +50,6 @@ Download the latest zip file from the [Release](https://github.com/guibranco/bit
 
 ### Nuget package manager
 
-[![PacakgeName NuGet Version](https://img.shields.io/nuget/v/bitcointrade.svg?style=flat)](https://www.nuget.org/packages/bitcointrade/)
-[![PacakgeName NuGet Downloads](https://img.shields.io/nuget/dt/bitcointrade.svg?style=flat)](https://www.nuget.org/packages/bitcointrade/)
-
 | Package | Version | Downloads |
 |------------------|:-------:|:-------:|
 | **bitcointrade** | [![bitcointrade NuGet Version](https://img.shields.io/nuget/v/bitcointrade.svg?style=flat)](https://www.nuget.org/packages/bitcointrade/) | [![bitcointrade NuGet Downloads](https://img.shields.io/nuget/dt/bitcointrade.svg?style=flat)](https://www.nuget.org/packages/bitcointrade/) |
