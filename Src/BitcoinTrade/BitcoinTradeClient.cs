@@ -7,7 +7,7 @@
 // Last Modified On : 07-06-2020
 // ***********************************************************************
 // <copyright file="BitcoinTradeClient.cs" company="Guilherme Branco Stracini ME">
-//     © 2020 Guilherme Branco Stracini. All rights reserved.
+//     ï¿½ 2020 Guilherme Branco Stracini. All rights reserved.
 // </copyright>
 // <summary></summary>
 // ***********************************************************************
@@ -37,8 +37,5 @@ namespace BitcoinTrade
         {
             _httpClient = httpClient ?? throw new ArgumentNullException(nameof(httpClient));
         }
-
-
-
     }
 }

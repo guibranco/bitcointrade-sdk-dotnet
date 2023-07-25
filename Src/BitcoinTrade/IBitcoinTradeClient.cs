@@ -16,7 +16,5 @@ namespace BitcoinTrade
     /// <summary>
     /// Interface IBitcoinTradeClient
     /// </summary>
-    public interface IBitcoinTradeClient
-    {
-    }
+    public interface IBitcoinTradeClient { }
 }
