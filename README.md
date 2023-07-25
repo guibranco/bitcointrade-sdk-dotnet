@@ -5,9 +5,7 @@ The [BitcoinTrade](https://bitcointrade.com.br) API client wrapper for .NET proj
 [![GitHub license](https://img.shields.io/github/license/guibranco/bitcointrade-sdk-dotnet)](https://github.com/guibranco/bitcointrade-sdk-dotnet)
 [![Time tracker](https://wakatime.com/badge/github/guibranco/bitcointrade-sdk-dotnet.svg)](https://wakatime.com/badge/github/guibranco/bitcointrade-sdk-dotnet)
 
-
 ![Bitcointrade](https://raw.githubusercontent.com/guibranco/bitcointrade-sdk-dotnet/main/logo.png)
-
 
 ## CI/CD
 
@@ -37,6 +35,8 @@ The [BitcoinTrade](https://bitcointrade.com.br) API client wrapper for .NET proj
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=guibranco_bitcointrade-sdk-dotnet&metric=bugs)](https://sonarcloud.io/dashboard?id=guibranco_bitcointrade-sdk-dotnet)
 [![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=guibranco_bitcointrade-sdk-dotnet&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=guibranco_bitcointrade-sdk-dotnet-dotnet)
+
+[![DeepSource](https://app.deepsource.com/gh/guibranco/bitcointrade-sdk-dotnet.svg/?label=active+issues&show_trend=true&token=lj-ibz-lOArXHoLkcLGQ3FAk)](https://app.deepsource.com/gh/guibranco/bitcointrade-sdk-dotnet/?ref=repository-badge)
 
 ---
 
