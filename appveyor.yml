@@ -83,8 +83,6 @@ after_build:
 - xcopy Tests\%SOLUTION_NAME%.Tests\*.json Coverage\
 - xcopy Tests\%SOLUTION_NAME%.Tests\*.info Coverage\
 
-- cd %CD%
-
 - 7z a -tzip -mx9 "%SOLUTION_NAME%.%APPVEYOR_BUILD_VERSION%.zip" Build
 - 7z a -tzip -mx9 "%SOLUTION_NAME%.%APPVEYOR_BUILD_VERSION%.Coverage.zip" Coverage
 
@@ -104,7 +102,6 @@ deploy:
   skip_symbols: false
   on:
    branch: main
-  artifact: Package
 
 - provider: GitHub
   on:
